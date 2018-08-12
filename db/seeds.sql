@@ -1,0 +1,10 @@
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('1', 'Hamburger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('2', 'Cheeseburger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('3', 'Bacon Cheeseburger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('4', 'Mushroom & Swiss Cheeseburger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('5', 'Chipotle Cheeseburger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('6', 'Island Burger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('7', 'Whiskey River Burger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('8', 'The RVA Burger', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('9', 'Chicken Not-A-Burger Sandwich', false);
+INSERT INTO burgers (id, burger_name, devoured) VALUES ('10', 'Vegan Burger-like Object', false);
